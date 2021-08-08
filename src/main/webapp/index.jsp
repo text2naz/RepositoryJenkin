@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>This is Java application stored in git and deployed using jenkin on Tomcat webserver!</h2>
 </body>
 </html>
